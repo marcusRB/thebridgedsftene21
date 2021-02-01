@@ -1,0 +1,90 @@
+[33mcommit 567eae756046f73865ecace95440523e44a39be2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Fri Jan 29 08:44:41 2021 +0100
+
+    flujos de control y ejercicios extra
+
+[33mcommit 9b4662292edd5284ad22c09edb152f0b018811e2[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 16:24:00 2021 +0100
+
+    reestructuracion carpetas
+
+[33mcommit dc27a4d4e04a8465d37f57ed632b6c371e588e04[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 16:22:36 2021 +0100
+
+    cheetsheets y ejercicio markdown
+
+[33mcommit f19e6164f801e97ba95beab8d39d87e940273db0[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 15:02:06 2021 +0100
+
+    basics clase 28_01_2020
+
+[33mcommit c5fc2e584fcc851dd4d0c08b4a9991ea3dbfdd9d[m
+Merge: 43a46f3 4321b8d
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 15:01:31 2021 +0100
+
+    Merge branch 'main' of https://github.com/daorti/thebridgedsftene21
+
+[33mcommit 4321b8d5df217a08d20b2876a603199d707dfd6f[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 11:03:30 2021 +0100
+
+    basics II
+
+[33mcommit 43a46f373cbdc9882380a233410bd07ad25ffd80[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 11:02:14 2021 +0100
+
+    basics II
+
+[33mcommit bfb0da5d8374e501c647a99a8118c57607bb10ce[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Thu Jan 28 10:59:47 2021 +0100
+
+    basics II
+
+[33mcommit 767c49f0220a71e99c546bbd1362951ee171ead5[m
+Author: anderTheBridge <ander@thebridge.tech>
+Date:   Wed Jan 27 13:13:13 2021 +0100
+
+    clean code
+
+[33mcommit ab6748088dd012ca03da39726a9a9efc9bbe4103[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Wed Jan 27 09:06:10 2021 +0100
+
+    correcciones clase 27_01_2021
+
+[33mcommit 71c53bcbbe3b55bf104504530e2a93373eb5e026[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Tue Jan 26 15:42:05 2021 +0100
+
+    clase 26-01-2021
+
+[33mcommit 23aa69e866aed25cab81927eec4cce37e28758d6[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Tue Jan 26 11:11:30 2021 +0100
+
+    archivos git
+
+[33mcommit 5ad8aab78f04b0b2fadaea6b4138552702a0e583[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Tue Jan 26 10:22:59 2021 +0100
+
+    libro de texto
+
+[33mcommit 691560df293216a4bad604d38db96356cc0dd57c[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Fri Jan 22 09:37:46 2021 +0100
+
+    Introducción al curso
+
+[33mcommit 4629a8d8de7cd49203508af506a111553045e17e[m
+Author: daorti <daneys90@hotmail.com>
+Date:   Tue Jan 19 10:53:06 2021 +0100
+
+    Initial commit
