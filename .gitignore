@@ -3,6 +3,7 @@
 #*.xlsx
 PROF_*
 *.DS_Store
+*.idea
 *checkpoint.ipynb
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
