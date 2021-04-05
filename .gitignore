@@ -4,6 +4,7 @@
 PROF_*
 *.DS_Store
 *.idea
+*credentials
 *checkpoint.ipynb
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
