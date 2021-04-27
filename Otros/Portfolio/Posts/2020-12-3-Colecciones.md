@@ -1,7 +1,6 @@
 ---
-layout: article
+layout: post
 title: Colecciones
-categories: articles
 ---
 
 Las colecciones son una manera de agrupar varios elementos. En otros notebooks vimos cómo funcionan las listas, que es la colección más usada, pero se trata solo de la punta del iceberg. Con Python tenemos varias manera de almacenar conjuntos de datos, dependiendo del tipo de dato, finalidad, tipo de acceso y rendimiento.

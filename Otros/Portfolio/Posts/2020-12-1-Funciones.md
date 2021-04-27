@@ -1,7 +1,6 @@
 ---
-layout: article
+layout: post
 title: Funciones
-categories: articles
 ---
 
 En este Notebook tienes una guía completa para orientarte en el uso de funciones en Python.

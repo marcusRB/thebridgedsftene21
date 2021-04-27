@@ -1,10 +1,6 @@
 ---
-layout: article
+layout: post
 title: Python - Flujos de control
-categories: articles
-modified: 2014-08-27
-image:
-  teaser: code.jpg
 ---
 
 Hasta ahora hemos visto cómo ejecutar un programa secuencialmente, empieza en la primera línea y acaba en la última. Pero ¿y si queremos que cambien los outputs del programa en función de ciertas condiciones, o si queremos que tome otros caminos en caso de encontrar errores?. Todo esto lo podremos hacer con los flujos de control. Sentencias que encontrarás en todos los lenguajes de programación.
